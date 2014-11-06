@@ -10,6 +10,7 @@ package pe.edu.upeu.inventario.modelo;
  *
  * @author juan
  */
+//Lazo
 public class Categoria {
     private int idcat;
     private String nombre;
